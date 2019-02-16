@@ -1,0 +1,20 @@
+.ui.segment.launch-container {
+    display: flex;
+    align-items: start;
+    flex-wrap: wrap;
+}
+
+.launch-image {
+    width: auto;
+}
+
+.ui.segment.launch-description {
+    width: 70%;
+    margin-right: 0;
+    margin-left: 30px;
+    margin-top: 0;
+}
+
+.ui.segment.launch-detail {
+    width: 100%;
+}

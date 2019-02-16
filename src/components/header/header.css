@@ -1,0 +1,15 @@
+.logo-img{
+    width: 200px;
+}
+
+.header-container.ui.segment {
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-container .menu.ui.secondary{
+    margin-bottom: auto;
+    margin-top: auto;
+}
